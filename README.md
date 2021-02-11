@@ -1,5 +1,3 @@
-# MIRAI Workshop
-
-MIRAI Workshop of AI &amp; NLP exercises.
+# MIRAI Workshop of AI & NLP
 
 More info: https://www.mirai-innovation-lab.com/ai-nlp/
